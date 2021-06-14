@@ -2,4 +2,6 @@
 
 Clone the repository
 
-run command npm start
+run command : 
+- npm install
+- npm start
